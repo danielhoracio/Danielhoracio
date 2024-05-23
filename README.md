@@ -1,4 +1,6 @@
-**Boas vindas ao meu perfil** 💙💙
+**Boas vindas ao meu perfil** 💚💚
+
+
 Meu nome é Daniel Alves de Oliveira Horácio 
 
 - Estou estudando na Alura
@@ -8,6 +10,7 @@ Meu nome é Daniel Alves de Oliveira Horácio
 Você pode entrar em contato comigo 📫
 
 danielhoracio@professor.educacao.sp.gov.br
+
 @alurastartestudante
 
 ![](https://media.tenor.com/ORwVOmkKdYEAAAAi/pato-caminando.gif)
